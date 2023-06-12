@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dthai\\Desktop\\ASS_CS5_Duong\\ASS_CS5\\ShopGiay_CS5_G5\\Data\\Data.csproj": {}
+    "C:\\Users\\Dthai\\Desktop\\ShopGiay_CS5_G5\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dthai\\Desktop\\ASS_CS5_Duong\\ASS_CS5\\ShopGiay_CS5_G5\\Data\\Data.csproj": {
+    "C:\\Users\\Dthai\\Desktop\\ShopGiay_CS5_G5\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dthai\\Desktop\\ASS_CS5_Duong\\ASS_CS5\\ShopGiay_CS5_G5\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Dthai\\Desktop\\ShopGiay_CS5_G5\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Dthai\\Desktop\\ASS_CS5_Duong\\ASS_CS5\\ShopGiay_CS5_G5\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\Dthai\\Desktop\\ShopGiay_CS5_G5\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Dthai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dthai\\Desktop\\ASS_CS5_Duong\\ASS_CS5\\ShopGiay_CS5_G5\\Data\\obj\\",
+        "outputPath": "C:\\Users\\Dthai\\Desktop\\ShopGiay_CS5_G5\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

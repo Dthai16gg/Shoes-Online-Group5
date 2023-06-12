@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "taDgqdi2lHbINjZlwUogNjCBEhgxzEiSrRjxQrWnxgRpd45IBxyjLCHGCEu4QPn8TLSf04TAtN7plZ41mr2Gng==",
+  "dgSpecHash": "G7FNKwJ9eCBpLXRC+lSNvfHcjzBZpnP7dzgJ6m9ZeCJgyRoWnAs4ZMmZ+lKgjSxfFA3OA9ZKBBrlL8LWa8O/LQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dthai\\Desktop\\ASS_CS5_Duong\\ASS_CS5\\ShopGiay_CS5_G5\\ProjectViews\\ProjectViews.csproj",
+  "projectFilePath": "C:\\Users\\Dthai\\Desktop\\ShopGiay_CS5_G5\\ProjectViews\\ProjectViews.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dthai\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dthai\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

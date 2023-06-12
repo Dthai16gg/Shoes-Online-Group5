@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5tmm71G7dg04Ebs3caZOHu56mvDggAfmWYsszcB/vWJTpcMYQNJtRpsdLsuWLql290tmqAhR/AdCFIiygua/jg==",
+  "dgSpecHash": "xd8lLK4a53JVSVQBOH5Vg66P9W8RC1rrf1/ZpMIrv6sW4dWhsYRxZBSLdK3pY72MdCxykC+S9Djy0a3R6GxdRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dthai\\Desktop\\ASS_CS5_Duong\\ASS_CS5\\ShopGiay_CS5_G5\\API_Core\\API_Core.csproj",
+  "projectFilePath": "C:\\Users\\Dthai\\Desktop\\ShopGiay_CS5_G5\\API_Core\\API_Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dthai\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dthai\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

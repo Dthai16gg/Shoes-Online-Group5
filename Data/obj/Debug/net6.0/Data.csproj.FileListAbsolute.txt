@@ -26,3 +26,17 @@ C:\Users\Dthai\Desktop\ASS_CS5_Duong\ASS_CS5\ShopGiay_CS5_G5\Data\obj\Debug\net6
 C:\Users\Dthai\Desktop\ASS_CS5_Duong\ASS_CS5\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\Data.pdb
 C:\Users\Dthai\Desktop\ASS_CS5_Duong\ASS_CS5\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
 C:\Users\Dthai\Desktop\ASS_CS5_Duong\ASS_CS5\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\bin\Debug\net6.0\Data.dll
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\Data.dll
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\Dthai\Desktop\ShopGiay_CS5_G5\Data\obj\Debug\net6.0\ref\Data.dll
