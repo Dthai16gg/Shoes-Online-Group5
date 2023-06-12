@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = API_Core
+build_property.RootNamespace = API_Core
+build_property.ProjectDir = C:\Users\Dthai\Desktop\ASS_CS5_Duong\ASS_CS5\ShopGiay_CS5_G5\API_Core\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Dthai\Desktop\ASS_CS5_Duong\ASS_CS5\ShopGiay_CS5_G5\API_Core
+build_property._RazorSourceGeneratorDebug = 
