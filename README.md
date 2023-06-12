@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Retina&weight=600&size=30&pause=1000&color=BC62F7&center=true&width=435&lines=Hi%2C+Ch%C3%BAng+t%C3%B4i+l%C3%A0+G5)](https://git.io/typing-svg)
 # Shoes Online
 
 Chào bạn, đây là mô tả về dự án bán giày sử dụng ASP.NET Web API và SQL Server.
